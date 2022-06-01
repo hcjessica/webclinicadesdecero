@@ -1,2 +1,2 @@
-# Web-ClinicaSRM-IAL
-Web de la Clínica Señor de los Milagros desarrollado para IAL
+# Web para una clínica
+Web desarrollada con HTML - JS - css
